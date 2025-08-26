@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "133699507338",
+    "project_id": "my-book-journal-37c6e",
+    "storage_bucket": "my-book-journal-37c6e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133699507338:android:58d242d213d763df250973",
+        "android_client_info": {
+          "package_name": "com.example.my_book_journal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133699507338-luki7lponsbj5b9cn3rvku0nit5itnng.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.my_book_journal",
+            "certificate_hash": "e8f9e271b15b910915005004e779c1d2380bc06e"
+          }
+        },
+        {
+          "client_id": "133699507338-lk694e1h80j77d9pudld95avc0gatgjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpYpGsCtGa8eQTVUJsVTAupNOk3E_qoHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133699507338-lk694e1h80j77d9pudld95avc0gatgjn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "133699507338-rplo42j5slg26hl5gbtd4gksoi0j4vto.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.voiceJournaling"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133699507338:android:fa2cb5639eaca91b250973",
+        "android_client_info": {
+          "package_name": "com.example.voice_journaling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133699507338-lk694e1h80j77d9pudld95avc0gatgjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpYpGsCtGa8eQTVUJsVTAupNOk3E_qoHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133699507338-lk694e1h80j77d9pudld95avc0gatgjn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "133699507338-rplo42j5slg26hl5gbtd4gksoi0j4vto.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.voiceJournaling"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
