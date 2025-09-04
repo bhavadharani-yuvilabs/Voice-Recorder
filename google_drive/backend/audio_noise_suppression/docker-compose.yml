@@ -1,0 +1,35 @@
+
+services:
+  app:
+    build: .
+    ports:
+      - '2080:2080'
+    volumes:
+      - .:/app
+
+    restart: always
+    
+    command: npm run dev
+    networks:
+      - shared_network
+
+  mongo:
+    image: mongo 
+    ports:
+      - '2081:27017'
+
+    container_name: audio_noise_suppression
+
+    restart: always 
+
+
+    volumes:
+      - mongo_data:/data/db
+    networks:
+      - shared_network
+
+volumes:
+  mongo_data:
+
+networks:
+  shared_network: 
