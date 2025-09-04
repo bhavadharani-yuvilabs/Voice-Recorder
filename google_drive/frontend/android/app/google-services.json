@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "271109729602",
+    "project_id": "yuvilabs",
+    "storage_bucket": "yuvilabs.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271109729602:android:b7e97d2d1053467fa82cdb",
+        "android_client_info": {
+          "package_name": "com.yuvilabs.journal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271109729602-ju3tt945ldcvbul9kvocbpv05ind5h6s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yuvilabs.journal",
+            "certificate_hash": "e8f9e271b15b910915005004e779c1d2380bc06e"
+          }
+        },
+        {
+          "client_id": "271109729602-qohvnp1b36er191gf63q93atnqc13amv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxZ87o9J4FAsdBX1_5ITIB9TyDCAN-5gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271109729602-qohvnp1b36er191gf63q93atnqc13amv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "271109729602-ag97c9hf314lh3gqmk62e5tnn0a37b39.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.voiceJournaling"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
